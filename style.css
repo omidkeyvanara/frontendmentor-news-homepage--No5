@@ -8,10 +8,11 @@
     font-size: 62.5%;
     font-family: 'Inter', sans-serif;
     width: 144rem;
+    background-color: hsl(36, 100%, 99%);
   }
   
   body {
-    margin: 6rem 16.7rem;
+    margin: 9rem 16.7rem;
   
   }
   
